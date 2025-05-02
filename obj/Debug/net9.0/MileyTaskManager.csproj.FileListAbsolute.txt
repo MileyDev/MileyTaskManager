@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\MileyTaskManager\bin\Debug\net9.0\MileyTaskManager.exe
+C:\Users\HP\Desktop\MileyTaskManager\bin\Debug\net9.0\MileyTaskManager.deps.json
+C:\Users\HP\Desktop\MileyTaskManager\bin\Debug\net9.0\MileyTaskManager.runtimeconfig.json
+C:\Users\HP\Desktop\MileyTaskManager\bin\Debug\net9.0\MileyTaskManager.dll
+C:\Users\HP\Desktop\MileyTaskManager\bin\Debug\net9.0\MileyTaskManager.pdb
+C:\Users\HP\Desktop\MileyTaskManager\obj\Debug\net9.0\MileyTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\MileyTaskManager\obj\Debug\net9.0\MileyTaskManager.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MileyTaskManager\obj\Debug\net9.0\MileyTaskManager.AssemblyInfo.cs
+C:\Users\HP\Desktop\MileyTaskManager\obj\Debug\net9.0\MileyTaskManager.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MileyTaskManager\obj\Debug\net9.0\MileyTaskManager.dll
+C:\Users\HP\Desktop\MileyTaskManager\obj\Debug\net9.0\refint\MileyTaskManager.dll
+C:\Users\HP\Desktop\MileyTaskManager\obj\Debug\net9.0\MileyTaskManager.pdb
+C:\Users\HP\Desktop\MileyTaskManager\obj\Debug\net9.0\MileyTaskManager.genruntimeconfig.cache
+C:\Users\HP\Desktop\MileyTaskManager\obj\Debug\net9.0\ref\MileyTaskManager.dll
